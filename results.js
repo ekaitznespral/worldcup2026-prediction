@@ -85,7 +85,7 @@ const RESULTS = {
   ],
   "groupMatches": {
     "A": {
-      "Mexico__South Africa": { "home": 2, "away": 0 },
+      "Mexico__South Africa": { "home": 2, "away": 2 },
       "Mexico__South Korea": { "home": 1, "away": 0 },
       "Mexico__Czech Republic": { "home": 2, "away": 1 },
       "South Africa__South Korea": { "home": 2, "away": 0 },
