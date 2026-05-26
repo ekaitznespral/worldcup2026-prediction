@@ -1,4 +1,112 @@
 const RESULTS = {
+  groups: {
+    "A": [
+      "Mexico",
+      "South Africa",
+      "Czech Republic",
+      "South Korea"
+    ],
+    "B": [
+      "Switzerland",
+      "Canada",
+      "Qatar",
+      "Bosnia & Herzegovina"
+    ],
+    "C": [
+      "Brazil",
+      "Scotland",
+      "Morocco",
+      "Haiti"
+    ],
+    "D": [
+      "Turkey",
+      "Paraguay",
+      "USA",
+      "Australia"
+    ],
+    "E": [
+      "Ivory Coast",
+      "Curaçao",
+      "Ecuador",
+      "Germany"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
+    ],
+    "G": [
+      "Egypt",
+      "Belgium",
+      "New Zealand",
+      "Iran"
+    ],
+    "H": [
+      "Uruguay",
+      "Cape Verde",
+      "Spain",
+      "Saudi Arabia"
+    ],
+    "I": [
+      "Norway",
+      "France",
+      "Iraq",
+      "Senegal"
+    ],
+    "J": [
+      "Jordan",
+      "Argentina",
+      "Algeria",
+      "Austria"
+    ],
+    "K": [
+      "DR Congo",
+      "Portugal",
+      "Colombia",
+      "Uzbekistan"
+    ],
+    "L": [
+      "Ghana",
+      "Panama",
+      "Croatia",
+      "England"
+    ]
+  },
+  thirdPlace: [],
+  groupMatches: {},
+  knockout: {
+    round32: [],
+    round16: [],
+    quarterfinals: [],
+    semifinals: [],
+    champion: "",
+    runnerUp: "",
+    finalists: [],
+    thirdPlaceWinner: "",
+    final: "",
+    thirdPlace: "",
+    matches: {
+      round32: [],
+      round16: [],
+      quarterfinals: [],
+      semifinals: [],
+      thirdPlace: [],
+      final: []
+    }
+  },
+  semifinalists: [],
+  finalists: [],
+  champion: "",
+  runnerUp: "",
+  thirdPlaceWinner: "",
+  awards: {
+    goldenBoot: [],
+    goldenBall: []
+  }
+};
+
+/*const RESULTS = {
   "groups": {
     "A": [
       "Mexico",
@@ -302,3 +410,4 @@ const RESULTS = {
     ]
   }
 };
+*/
