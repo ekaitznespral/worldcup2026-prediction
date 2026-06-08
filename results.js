@@ -8,7 +8,7 @@ const RESULTS = {
   },
   "thirdPlace": [],
   "groupMatches": {
-    "A": {"Mexico__South Africa": { "home": 3, "away": 1 },}, 
+    "A": {/*"Mexico__South Africa": { "home": 3, "away": 1 },*/}, 
     "B": {}, "C": {}, "D": {},
     "E": {}, "F": {}, "G": {}, "H": {},
     "I": {}, "J": {}, "K": {}, "L": {}
