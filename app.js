@@ -111,6 +111,7 @@ const AWARD_PLAYERS = [
   { name: 'Lamine Yamal', country: 'Spain' },
   { name: 'Rodri', country: 'Spain' },
   { name: 'Pedri', country: 'Spain' },
+  { name: 'Oyarzabal', country: 'Spain' },
   { name: 'Nico Williams', country: 'Spain' },
   { name: 'Dani Olmo', country: 'Spain' },
   { name: 'Pau Cubarsí', country: 'Spain' },
