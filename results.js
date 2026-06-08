@@ -1,6 +1,36 @@
+//RESULTADOS REALES
+
 const RESULTS = {
- "groups": {/*
- "A": [
+  "groups": {
+    "A": [], "B": [], "C": [], "D": [],
+    "E": [], "F": [], "G": [], "H": [],
+    "I": [], "J": [], "K": [], "L": []
+  },
+  "thirdPlace": [],
+  "groupMatches": {
+    "A": {"Mexico__South Africa": { "home": 2, "away": 2 },}, 
+    "B": {}, "C": {}, "D": {},
+    "E": {}, "F": {}, "G": {}, "H": {},
+    "I": {}, "J": {}, "K": {}, "L": {}
+  },
+  "knockout": {},
+  "semifinalists": [],
+  "finalists": [],
+  "champion": "",
+  "runnerUp": "",
+  "thirdPlaceWinner": "",
+  "awards": {
+    "goldenBoot": ["", "", ""],
+    "goldenBall": ["", "", ""]
+  }
+};
+
+
+
+//PLANTILLA
+//const RESULTS = {
+// "groups": {
+/* "A": [
  "Mexico",
  "South Africa",
  "Czech Republic",
@@ -72,9 +102,9 @@ const RESULTS = {
  "Croatia",
  "England"
  ]*/
- },
- "thirdPlace": [/*
- "Sweden",
+ //},
+// "thirdPlace": [
+/* "Sweden",
  "Colombia",
  "Iraq",
  "Morocco",
@@ -82,9 +112,9 @@ const RESULTS = {
  "Spain",
  "Ecuador",
  "New Zealand"*/
- ],
- "groupMatches": {/*
- "A": {
+ //],
+ //"groupMatches": {
+/* "A": {
  "Mexico__South Africa": { "home": 2, "away": 2 },
  "Mexico__South Korea": { "home": 1, "away": 0 },
  "Mexico__Czech Republic": { "home": 2, "away": 1 },
@@ -180,9 +210,9 @@ const RESULTS = {
  "Ghana__Panama": { "home": 1, "away": 1 },
  "Croatia__Panama": { "home": 1, "away": 2 }
  }*/
- },
- "knockout": {/*
- "round32": [
+ //},
+ //"knockout": {
+ /*"round32": [
  "South Africa",
  "Ivory Coast",
  "Netherlands",
@@ -275,30 +305,31 @@ const RESULTS = {
  { "match": 104, "team1": "Norway", "team2": "Algeria", "winner": "Norway" }
  ]
  }*/
- },
- "semifinalists": [/*
- "Norway",
+// },
+// "semifinalists": [
+/* "Norway",
  "Morocco",
  "Algeria",
  "Ecuador"*/
- ],
- "finalists": [/*
- "Norway",
+// ],
+// "finalists": [
+ /*"Norway",
  "Algeria"*/
- ],
- "champion": "",
- "runnerUp": "",
- "thirdPlaceWinner": "",
- "awards": {
- "goldenBoot": [
- "",
- "",
- ""
- ],
- "goldenBall": [
- "",
- "",
- ""
- ]
- }
- };
+// ],
+ //"champion": "",
+// "runnerUp": "",
+// "thirdPlaceWinner": "",
+// "awards": {
+// "goldenBoot": [
+// "",
+// "",
+// ""
+// ],
+// "goldenBall": [
+// "",
+// "",
+// ""
+// ]
+// }
+// }; 
+
