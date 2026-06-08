@@ -2,18 +2,100 @@
 
 const RESULTS = {
   "groups": {
-    "A": [], "B": [], "C": [], "D": [],
-    "E": [], "F": [], "G": [], "H": [],
-    "I": [], "J": [], "K": [], "L": []
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "E": [],
+    "F": [],
+    "G": [],
+    "H": [],
+    "I": [],
+    "J": [],
+    "K": [],
+    "L": []
   },
-  "thirdPlace": [],
+  "thirdPlace": [
+   /* "Sweden",
+   "Colombia",
+   "Iraq",
+   "Morocco",
+   "Algeria",
+   "Spain",
+   "Ecuador",
+   "New Zealand"*/],
   "groupMatches": {
     "A": {/*"Mexico__South Africa": { "home": 3, "away": 1 },*/}, 
-    "B": {}, "C": {}, "D": {},
-    "E": {}, "F": {}, "G": {}, "H": {},
-    "I": {}, "J": {}, "K": {}, "L": {}
+    "B": {},
+    "C": {},
+    "D": {},
+    "E": {},
+    "F": {},
+    "G": {},
+    "H": {},
+    "I": {},
+    "J": {},
+    "K": {},
+    "L": {}
   },
-  "knockout": {},
+  "knockout": {
+    "round32": [],
+    "round16": [],
+    "quarterfinals": [],
+    "semifinals": [],
+    "champion": "",
+    "runnerUp": "",
+    "finalists": [],
+    "thirdPlaceWinner": "",
+    "final": "",
+    "thirdPlace": "",
+    "matches": {
+      "round32": [
+        { "match": 73, "team1": "", "team2": "", "winner": "" },
+        { "match": 74, "team1": "", "team2": "", "winner": "" },
+        { "match": 75, "team1": "", "team2": "", "winner": "" },
+        { "match": 76, "team1": "", "team2": "", "winner": "" },
+        { "match": 77, "team1": "", "team2": "", "winner": "" },
+        { "match": 78, "team1": "", "team2": "", "winner": "" },
+        { "match": 79, "team1": "", "team2": "", "winner": "" },
+        { "match": 80, "team1": "", "team2": "", "winner": "" },
+        { "match": 81, "team1": "", "team2": "", "winner": "" },
+        { "match": 82, "team1": "", "team2": "", "winner": "" },
+        { "match": 83, "team1": "", "team2": "", "winner": "" },
+        { "match": 84, "team1": "", "team2": "", "winner": "" },
+        { "match": 85, "team1": "", "team2": "", "winner": "" },
+        { "match": 86, "team1": "", "team2": "", "winner": "" },
+        { "match": 87, "team1": "", "team2": "", "winner": "" },
+        { "match": 88, "team1": "", "team2": "", "winner": "" }
+      ],
+      "round16": [
+        { "match": 89, "team1": "", "team2": "", "winner": "" },
+        { "match": 90, "team1": "", "team2": "", "winner": "" },
+        { "match": 91, "team1": "", "team2": "", "winner": "" },
+        { "match": 92, "team1": "", "team2": "", "winner": "" },
+        { "match": 93, "team1": "", "team2": "", "winner": "" },
+        { "match": 94, "team1": "", "team2": "", "winner": "" },
+        { "match": 95, "team1": "", "team2": "", "winner": "" },
+        { "match": 96, "team1": "", "team2": "", "winner": "" }
+      ],
+      "quarterfinals": [
+        { "match": 97, "team1": "", "team2": "", "winner": "" },
+        { "match": 98, "team1": "", "team2": "", "winner": "" },
+        { "match": 99, "team1": "", "team2": "", "winner": "" },
+        { "match": 100, "team1": "", "team2": "", "winner": "" }
+      ],
+      "semifinals": [
+        { "match": 101, "team1": "", "team2": "", "winner": "" },
+        { "match": 102, "team1": "", "team2": "", "winner": "" }
+      ],
+      "thirdPlace": [
+        { "match": 103, "team1": "", "team2": "", "winner": "" }
+      ],
+      "final": [
+        { "match": 104, "team1": "", "team2": "", "winner": "" }
+      ]
+    }
+  },
   "semifinalists": [],
   "finalists": [],
   "champion": "",
