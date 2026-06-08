@@ -15,7 +15,7 @@ const ENTRY_ID = 'entry.1676086858';
 const puntuaciones = {
   grupos: {
     partido: {
-      resultadoExacto: 2,
+      resultadoExacto: 3,
       ganadorEmpateCorrecto: 1
     },
     posicion: {
@@ -26,12 +26,12 @@ const puntuaciones = {
   },
   eliminatorias: {
     round32: 2,
-    round16: 3,
-    quarterfinals: 5,
-    semifinals: 10,
-    finalist: 20,
-    champion: 20,
-    thirdPlace: 15
+    round16: 4,
+    quarterfinals: 7,
+    semifinals: 12,
+    finalist: 15,
+    champion: 25,
+    thirdPlace: 10
   },
   premios: {
     goldenBoot: [15, 10, 5],
