@@ -43,7 +43,7 @@ const RESULTS = {
  },
  "C": {
        //"Brazil__Haiti": { "home": 3, "away": 0 },
-       //"Brazil__Morocco": { "home": 2, "away": 0 },
+       "Brazil__Morocco": { "home": 1, "away": 1 },
        //"Brazil__Scotland": { "home": 2, "away": 1 },
        //"Haiti__Morocco": { "home": 1, "away": 3 },
        //"Haiti__Scotland": { "home": 1, "away": 3 },
