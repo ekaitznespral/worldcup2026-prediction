@@ -51,7 +51,7 @@ const RESULTS = {
  },
  "D": {
        //"Turkey__Paraguay": { "home": 2, "away": 1 },
-       //"Turkey__Australia": { "home": 2, "away": 1 },
+       "Turkey__Australia": { "home": 2, "away": 0 },
        //"Turkey__USA": { "home": 2, "away": 0 },
        //"Paraguay__Australia": { "home": 1, "away": 0 },
        "Paraguay__USA": { "home": 4, "away": 1 },
