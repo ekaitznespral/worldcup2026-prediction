@@ -66,7 +66,7 @@ const RESULTS = {
        //"Germany__Ivory Coast": { "home": 0, "away": 1 }
  },
  "F": {
-       //"Japan__Netherlands": { "home": 3, "away": 1 },
+       "Japan__Netherlands": { "home": 2, "away": 2 },
        //"Japan__Tunisia": { "home": 1, "away": 1 },
        //"Japan__Sweden": { "home": 2, "away": 2 },
        //"Netherlands__Tunisia": { "home": 1, "away": 0 },
