@@ -91,7 +91,7 @@ const RESULTS = {
  },
  "I": {
        //"France__Iraq": { "home": 3, "away": 1 },
-       //"France__Senegal": { "home": 3, "away": 2 },
+       "France__Senegal": { "home": 3, "away": 1 },
        //"France__Norway": { "home": 0, "away": 2 },
        //"Iraq__Senegal": { "home": 2, "away": 1 },
        //"Iraq__Norway": { "home": 1, "away": 1 },
