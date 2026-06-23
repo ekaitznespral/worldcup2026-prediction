@@ -114,7 +114,7 @@ const RESULTS = {
        //"DR Congo__Colombia": { "home": 1, "away": 0 }
  },
  "L": {
-       //"England__Ghana": { "home": 2, "away": 3 },
+       "England__Ghana": { "home": 0, "away": 0 },
        "England__Croatia": { "home": 4, "away": 2 },
        //"England__Panama": { "home": 0, "away": 2 },
        //"Ghana__Croatia": { "home": 2, "away": 0 },
