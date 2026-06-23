@@ -2,7 +2,12 @@
 
 const RESULTS = {
   "groups": {
-    "A": [],
+    "A": [
+     //"Mexico",
+     //"South Africa",
+     //"Czech Republic",
+     //"South Korea"
+    ],
     "B": [],
     "C": [],
     "D": [],
