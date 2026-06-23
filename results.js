@@ -106,7 +106,7 @@ const RESULTS = {
        //"Algeria__Austria": { "home": 2, "away": 0 }
  },
  "K": {
-       //"Portugal__Uzbekistan": { "home": 2, "away": 1 },
+       "Portugal__Uzbekistan": { "home": 5, "away": 0 },
        "Portugal__DR Congo": { "home": 1, "away": 1 },
        //"Portugal__Colombia": { "home": 0, "away": 1 },
        //"Uzbekistan__DR Congo": { "home": 0, "away": 3 },
