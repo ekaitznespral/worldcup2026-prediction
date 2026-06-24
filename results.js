@@ -116,7 +116,7 @@ const RESULTS = {
        //"Portugal__Colombia": { "home": 0, "away": 1 },
        //"Uzbekistan__DR Congo": { "home": 0, "away": 3 },
        "Uzbekistan__Colombia": { "home": 1, "away": 3 },
-       //"DR Congo__Colombia": { "home": 1, "away": 0 }
+       "DR Congo__Colombia": { "home": 1, "away": 0 }
  },
  "L": {
        "England__Ghana": { "home": 0, "away": 0 },
@@ -124,7 +124,7 @@ const RESULTS = {
        //"England__Panama": { "home": 0, "away": 2 },
        //"Ghana__Croatia": { "home": 2, "away": 0 },
        "Ghana__Panama": { "home": 1, "away": 0 },
-       //"Croatia__Panama": { "home": 1, "away": 2 }
+       "Croatia__Panama": { "home": 0, "away": 1 }
  }
   },
   "knockout": {
