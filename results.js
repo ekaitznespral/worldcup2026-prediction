@@ -21,7 +21,11 @@ const RESULTS = {
       "Haiti"
     ],
     "D": [],
-    "E": [],
+    "E": [
+      "Germany",
+      "Ivory Coast",
+      "Ecuador",
+      "Curaçao"],
     "F": [],
     "G": [],
     "H": [],
@@ -75,8 +79,8 @@ const RESULTS = {
  "E": {
        "Curaçao__Ecuador": { "home": 0, "away": 0 },
        "Curaçao__Germany": { "home": 7, "away": 1 },
-       //"Curaçao__Ivory Coast": { "home": 1, "away": 3 },
-       //"Ecuador__Germany": { "home": 2, "away": 1 },
+       "Curaçao__Ivory Coast": { "home": 0, "away": 2 },
+       "Ecuador__Germany": { "home": 2, "away": 1 },
        "Ecuador__Ivory Coast": { "home": 1, "away": 0 },
        "Germany__Ivory Coast": { "home": 2, "away": 1 }
  },
@@ -159,7 +163,7 @@ const RESULTS = {
         { "match": 81, "team1": "USA", "team2": "", "winner": "" },
         { "match": 82, "team1": "", "team2": "", "winner": "" },
         { "match": 76, "team1": "Brazil", "team2": "", "winner": "" },
-        { "match": 78, "team1": "", "team2": "", "winner": "" },
+        { "match": 78, "team1": "Ivory Coast", "team2": "", "winner": "" },
         { "match": 79, "team1": "Mexico", "team2": "", "winner": "" },
         { "match": 80, "team1": "", "team2": "", "winner": "" },
         { "match": 86, "team1": "Argentina", "team2": "", "winner": "" },
