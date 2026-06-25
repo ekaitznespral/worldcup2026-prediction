@@ -3,10 +3,10 @@
 const RESULTS = {
   "groups": {
     "A": [
-     //"Mexico",
-     //"South Africa",
-     //"Czech Republic",
-     //"South Korea"
+     "Mexico",
+     "South Africa",
+     "South Korea",
+     "Czech Republic"
     ],
     "B": [
       "Switzerland",
@@ -14,7 +14,12 @@ const RESULTS = {
       "Bosnia & Herzegovina",
       "Qatar"
       ],
-    "C": [],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Scotland",
+      "Haiti"
+    ],
     "D": [],
     "E": [],
     "F": [],
@@ -38,8 +43,8 @@ const RESULTS = {
     "A": {
        "Mexico__South Africa": { "home": 2, "away": 0 },
        "Mexico__South Korea": { "home": 1, "away": 0 },
-       //"Mexico__Czech Republic": { "home": 2, "away": 1 },
-       //"South Africa__South Korea": { "home": 2, "away": 0 },
+       "Mexico__Czech Republic": { "home": 0, "away": 3 },
+       "South Africa__South Korea": { "home": 1, "away": 0 },
        "South Africa__Czech Republic": { "home": 1, "away": 1 },
        "South Korea__Czech Republic": { "home": 2, "away": 1 }
     }, 
@@ -54,8 +59,8 @@ const RESULTS = {
  "C": {
        "Brazil__Haiti": { "home": 3, "away": 0 },
        "Brazil__Morocco": { "home": 1, "away": 1 },
-       //"Brazil__Scotland": { "home": 2, "away": 1 },
-       //"Haiti__Morocco": { "home": 1, "away": 3 },
+       "Brazil__Scotland": { "home": 0, "away": 3 },
+       "Haiti__Morocco": { "home": 4, "away": 2 },
        "Haiti__Scotland": { "home": 0, "away": 1 },
        "Morocco__Scotland": { "home": 0, "away": 1 }
  },
@@ -147,13 +152,13 @@ const RESULTS = {
       "round32": [
         { "match": 73, "team1": "Germany", "team2": "", "winner": "" },
         { "match": 74, "team1": "", "team2": "", "winner": "" },
-        { "match": 75, "team1": "", "team2": "Canada", "winner": "" },
-        { "match": 76, "team1": "", "team2": "", "winner": "" },
+        { "match": 75, "team1": "South Africa", "team2": "Canada", "winner": "" },
+        { "match": 76, "team1": "", "team2": "Morocco", "winner": "" },
         { "match": 77, "team1": "", "team2": "", "winner": "" },
         { "match": 78, "team1": "", "team2": "", "winner": "" },
         { "match": 79, "team1": "USA", "team2": "", "winner": "" },
         { "match": 80, "team1": "", "team2": "", "winner": "" },
-        { "match": 81, "team1": "", "team2": "", "winner": "" },
+        { "match": 81, "team1": "Brazil", "team2": "", "winner": "" },
         { "match": 82, "team1": "", "team2": "", "winner": "" },
         { "match": 83, "team1": "Mexico", "team2": "", "winner": "" },
         { "match": 84, "team1": "", "team2": "", "winner": "" },
