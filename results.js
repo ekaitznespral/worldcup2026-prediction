@@ -39,7 +39,12 @@ const RESULTS = {
     ],
     "G": [],
     "H": [],
-    "I": [],
+    "I": [
+      "France",
+      "Norway",
+      "Senegal",
+      "Iraq"
+    ],
     "J": [],
     "K": [],
     "L": []
@@ -121,8 +126,8 @@ const RESULTS = {
  "I": {
        "France__Iraq": { "home": 3, "away": 0 },
        "France__Senegal": { "home": 3, "away": 1 },
-       //"France__Norway": { "home": 0, "away": 2 },
-       //"Iraq__Senegal": { "home": 2, "away": 1 },
+       "France__Norway": { "home": 1, "away": 4 },
+       "Iraq__Senegal": { "home": 5, "away": 0 },
        "Iraq__Norway": { "home": 1, "away": 4 },
        "Senegal__Norway": { "home": 3, "away": 2 }
  },
@@ -165,7 +170,7 @@ const RESULTS = {
     "matches": {
       "round32": [
         { "match": 74, "team1": "Germany", "team2": "", "winner": "" },
-        { "match": 77, "team1": "", "team2": "", "winner": "" },
+        { "match": 77, "team1": "France", "team2": "", "winner": "" },
         { "match": 73, "team1": "South Africa", "team2": "Canada", "winner": "" },
         { "match": 75, "team1": "Netherlands", "team2": "Morocco", "winner": "" },
         { "match": 83, "team1": "", "team2": "", "winner": "" },
@@ -173,7 +178,7 @@ const RESULTS = {
         { "match": 81, "team1": "USA", "team2": "Bosnia & Herzegovina", "winner": "" },
         { "match": 82, "team1": "", "team2": "", "winner": "" },
         { "match": 76, "team1": "Brazil", "team2": "Japan", "winner": "" },
-        { "match": 78, "team1": "Ivory Coast", "team2": "", "winner": "" },
+        { "match": 78, "team1": "Ivory Coast", "team2": "Norway", "winner": "" },
         { "match": 79, "team1": "Mexico", "team2": "", "winner": "" },
         { "match": 80, "team1": "", "team2": "", "winner": "" },
         { "match": 86, "team1": "Argentina", "team2": "", "winner": "" },
