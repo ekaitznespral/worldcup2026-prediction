@@ -55,19 +55,34 @@ const RESULTS = {
       "Senegal",
       "Iraq"
     ],
-    "J": [],
-    "K": [],
-    "L": []
+    "J": [
+      "Argentina",
+      "Austria",
+      "Algeria",
+      "Jordan"
+    ],
+    "K": [
+      "Colombia",
+      "Portugal",
+      "DR Congo",
+      "Uzbekistan"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
+    ]
   },
   "thirdPlace": [
-   /* "Sweden",
-   "Colombia",
-   "Iraq",
-   "Morocco",
-   "Algeria",
-   "Spain",
+   "DR Congo",
+   "Sweden",
+   "Ghana",
    "Ecuador",
-   "New Zealand"*/],
+   "Bosnia & Herzegovina",
+   "Algeria",
+   "Paraguay",
+   "Senegal"],
   "groupMatches": {
     "A": {
        "Mexico__South Africa": { "home": 2, "away": 0 },
@@ -142,27 +157,27 @@ const RESULTS = {
        "Senegal__Norway": { "home": 3, "away": 2 }
  },
  "J": {
-       //"Argentina__Jordan": { "home": 1, "away": 3 },
+       "Argentina__Jordan": { "home": 1, "away": 3 },
        "Argentina__Algeria": { "home": 3, "away": 0 },
        "Argentina__Austria": { "home": 2, "away": 0 },
        "Jordan__Algeria": { "home": 1, "away": 2 },
        "Jordan__Austria": { "home": 3, "away": 1 },
-       //"Algeria__Austria": { "home": 2, "away": 0 }
+       "Algeria__Austria": { "home": 3, "away": 3 }
  },
  "K": {
        "Portugal__Uzbekistan": { "home": 5, "away": 0 },
        "Portugal__DR Congo": { "home": 1, "away": 1 },
-       //"Portugal__Colombia": { "home": 0, "away": 1 },
-       //"Uzbekistan__DR Congo": { "home": 0, "away": 3 },
+       "Portugal__Colombia": { "home": 0, "away": 0 },
+       "Uzbekistan__DR Congo": { "home": 3, "away": 1 },
        "Uzbekistan__Colombia": { "home": 1, "away": 3 },
        "DR Congo__Colombia": { "home": 1, "away": 0 }
  },
  "L": {
        "England__Ghana": { "home": 0, "away": 0 },
        "England__Croatia": { "home": 4, "away": 2 },
-       //"England__Panama": { "home": 0, "away": 2 },
-       //"Ghana__Croatia": { "home": 2, "away": 0 },
-       "Ghana__Panama": { "home": 1, "away": 0 },
+       "England__Panama": { "home": 0, "away": 2 },
+       "Ghana__Croatia": { "home": 2, "away": 0 },
+       "Ghana__Panama": { "home": 1, "away": 1 },
        "Croatia__Panama": { "home": 0, "away": 1 }
  }
   },
@@ -183,18 +198,18 @@ const RESULTS = {
         { "match": 77, "team1": "France", "team2": "Sweden", "winner": "" },
         { "match": 73, "team1": "South Africa", "team2": "Canada", "winner": "" },
         { "match": 75, "team1": "Netherlands", "team2": "Morocco", "winner": "" },
-        { "match": 83, "team1": "", "team2": "", "winner": "" },
-        { "match": 84, "team1": "Spain", "team2": "", "winner": "" },
+        { "match": 83, "team1": "Portugal", "team2": "Croatia", "winner": "" },
+        { "match": 84, "team1": "Spain", "team2": "Austria", "winner": "" },
         { "match": 81, "team1": "USA", "team2": "Bosnia & Herzegovina", "winner": "" },
-        { "match": 82, "team1": "Belgium", "team2": "", "winner": "" },
+        { "match": 82, "team1": "Belgium", "team2": "Senegal", "winner": "" },
         { "match": 76, "team1": "Brazil", "team2": "Japan", "winner": "" },
         { "match": 78, "team1": "Ivory Coast", "team2": "Norway", "winner": "" },
-        { "match": 79, "team1": "Mexico", "team2": "", "winner": "" },
-        { "match": 80, "team1": "", "team2": "", "winner": "" },
+        { "match": 79, "team1": "Mexico", "team2": "Ecuador", "winner": "" },
+        { "match": 80, "team1": "England", "team2": "DR Congo", "winner": "" },
         { "match": 86, "team1": "Argentina", "team2": "Cape Verde", "winner": "" },
         { "match": 88, "team1": "Australia", "team2": "Egypt", "winner": "" },
-        { "match": 85, "team1": "Switzerland", "team2": "", "winner": "" },
-        { "match": 87, "team1": "", "team2": "", "winner": "" }
+        { "match": 85, "team1": "Switzerland", "team2": "Algeria", "winner": "" },
+        { "match": 87, "team1": "Colombia", "team2": "Ghana", "winner": "" }
       ],
       "round16": [
         { "match": 89, "team1": "", "team2": "", "winner": "" },
