@@ -201,7 +201,9 @@ const RESULTS = {
        "Colombia"
       
     ],
-    "round16": [],
+    "round16": [
+      "France",
+               ],
     "quarterfinals": [],
     "semifinals": [],
     "champion": "",
