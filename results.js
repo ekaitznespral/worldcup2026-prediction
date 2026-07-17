@@ -265,10 +265,10 @@ const RESULTS = {
         { "match": 102, "team1": "England", "team2": "Argentina", "winner": "" }
       ],
       "thirdPlace": [
-        { "match": 103, "team1": "France", "team2": "", "winner": "" }
+        { "match": 103, "team1": "France", "team2": "England", "winner": "" }
       ],
       "final": [
-        { "match": 104, "team1": "Spain", "team2": "", "winner": "" }
+        { "match": 104, "team1": "Spain", "team2": "Argentina", "winner": "" }
       ]
     }
   },
