@@ -274,11 +274,11 @@ const RESULTS = {
   },
   "semifinalists": [],
   "finalists": [],
-  "champion": "",
-  "runnerUp": "",
-  "thirdPlaceWinner": "",
+  "champion": "Spain",
+  "runnerUp": "Argentina",
+  "thirdPlaceWinner": "England",
   "awards": {
-    "goldenBoot": ["", "", ""],
+    "goldenBoot": ["Kylian Mbappe", "Lionel Messi", "Erling Haaland"],
     "goldenBall": ["", "", ""]
   }
 };
