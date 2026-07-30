@@ -278,8 +278,8 @@ const RESULTS = {
   "runnerUp": "Argentina",
   "thirdPlaceWinner": "England",
   "awards": {
-    "goldenBoot": ["Kylian Mbappe", "Lionel Messi", "Erling Haaland"],
-    "goldenBall": ["", "", ""]
+    "goldenBoot": ["Kylian Mbappé", "Lionel Messi", "Erling Haaland"],
+    "goldenBall": ["Rodri", "Lionel Messi", "Kylian Mbappé"]
   }
 };
 
